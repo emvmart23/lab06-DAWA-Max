@@ -1,0 +1,15 @@
+{
+  "name": "tecsup-2023-martinezsaavedr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "Max",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.22",
+    "underscore": "^1.13.6"
+  }
+}
